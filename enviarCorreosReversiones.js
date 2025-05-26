@@ -1,3 +1,5 @@
+//BORRADOOOOOOOOOOOOOOOOOOR!!!!!!!!!!!!!!
+
 function enviarCorreosReversiones() {
   const ui = SpreadsheetApp.getUi();
   
