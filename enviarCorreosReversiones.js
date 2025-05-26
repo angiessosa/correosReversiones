@@ -107,7 +107,7 @@ ${firmaHTML}`;
     }
   }
   
-  ui.alert("✅ Correos enviados", "Los correos se han enviado correctamente con tu firma profesional.", ui.ButtonSet.OK);
+  ui.alert("✅ Correos enviados", "Los correos se han enviado correctamente.", ui.ButtonSet.OK);
 }
 
 
